@@ -7,6 +7,7 @@
  * 
  * @copyright Copyright (c) 2022
  * 
+ * @note See the http://www.fourwalledcubicle.com/files/LightweightRingBuff.h for the license information.
  */
 
 #ifndef __RING_BUFFER_H_
