@@ -13,16 +13,6 @@ Ring buffer in c.
 ## Getting Started <a name = "getting_started"></a>
 Download the 'RingBuffer.h' and include it to your project.
 
-
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
 ### Installing
 
 Include the 'RingBuffer.h' file to your project and define a RingBuffer_Handler_t object.
